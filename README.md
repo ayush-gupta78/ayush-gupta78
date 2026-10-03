@@ -6,9 +6,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-gupta78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gupta-1984b6381/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgupta7643@gmail.com)
 
 </div>
 
@@ -98,13 +98,13 @@ All implemented in vanilla Java — no frameworks, no abstractions, just sockets
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush-gupta78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A855F7&title_color=A855F7&icon_color=A855F7"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_color=A855F7&title_color=A855F7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-gupta78&layout=compact&langs_count=8&theme=tokyonight&border_color=A855F7&title_color=A855F7"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
+<img src="https://streak-stats.demolab.com?user=ayush-gupta78&theme=tokyonight&border=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
 
 </div>
 
