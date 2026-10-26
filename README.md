@@ -1,192 +1,124 @@
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="66%" valign="middle">
-      <p><sub>BUILDING IN PUBLIC &nbsp;·&nbsp; OPEN TO INTERNSHIPS</sub></p>
-      <h1>Ayush Gupta</h1>
-      <p><strong>Developer · Explorer · Occasional debugging survivor</strong></p>
-      <p>2nd-year Computer Science student at IIIT Vadodara.<br />Building at the intersection of <strong>AI, backend engineering, and systems</strong>.</p>
-      <p><strong>↳ I turn code into intelligence.</strong></p>
-    </td>
-    <td width="34%" align="center" valign="middle">
-      <a href="https://github.com/ayush-gupta78">
-        <img src="https://avatars.githubusercontent.com/u/337091980?v=4" width="175" alt="Ayush Gupta's GitHub avatar" />
-      </a>
-    </td>
-  </tr>
-</table>
+# Hey, I'm Ayush 👋
 
-<a href="https://github.com/ayush-gupta78"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ayush-gupta-1984b6381/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ayushgupta7643@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://ayush-gupta-dev.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3400&pause=1200&color=A855F7&center=true&vCenter=true&width=780&lines=Developer+%E2%80%A2+Explorer+%E2%80%A2+Debugging+survivor;Exploring+Machine+Learning+%26+Rust;Building+tools%2C+systems%2C+and+things+that+teach+me" alt="A few things I'm building and learning" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Developer+%E2%80%A2+Explorer+%E2%80%A2+Occasional+debugging+survivor;2nd+Year+CS+Student;Building+at+the+intersection+of+AI+%26+Systems;Currently+learning+ML+%26+Rust+%F0%9F%A6%80;Making+machines+smarter%2C+one+bug+at+a+time" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-gupta78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gupta-1984b6381/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgupta7643@gmail.com)
 
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Engineering</h3>
-      <p>REST APIs, backend systems, information retrieval, and developer tools.</p>
-    </td>
-    <td width="34%" valign="top">
-      <h3>Public proof</h3>
-      <p>Working repositories in TypeScript, Python, Java, and GDScript—with code you can inspect.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Current direction</h3>
-      <p>Machine learning, applied research, quantitative systems, and learning Rust.</p>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
 
-A little about me
-I'm a 2nd-year Computer Science student at IIIT Vadodara who enjoys understanding what happens beneath the abstractions. I move between building software and exploring the ideas behind it—whether that's mapping a codebase, implementing a search engine, designing a backend, or making sense of noisy market data.
+I'm a **2nd year Computer Science student** drawn to the kind of problems that sit at the edge of what software can do — whether that's training a model to find patterns in messy data, building a backtester that speaks the language of quantitative finance, or finally understanding what Rust's borrow checker is actually trying to protect me from.
 
-Right now, I'm going deeper into machine learning (models, training, and real datasets) and Rust (ownership, lifetimes, and an extremely judgmental borrow checker). I'm especially interested in projects that solve useful problems or make other developers' work easier.
-Good code is code you can still understand six months later.
+- 🤖 Currently diving deep into **Machine Learning** — from scratch implementations to real datasets
+- 🦀 Learning **Rust** — because apparently I enjoy suffering (and memory safety)
+- 📊 Fascinated by **quantitative systems**, data pipelines, and anything that merges math with code
+- 🎮 Gaming is my reset button — helps me think sideways about hard problems
+- 💬 Firm believer that the best code is the code you understand six months later
 
-Selected work
-<table width="100%">
-  <tr>
-    <td width="55%" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ayush-gupta78&theme=github-dark&repos=ayush-gupta78%2FCIE%2Cayush-gupta78%2FSearch-Engine%2Cayush-gupta78%2FGameDev%2Cayush-gupta78%2FCrawler&v=ayush-projects-2&mode=light" />
-        <img src="https://www.gitskins.com/api/section/projects?username=ayush-gupta78&theme=github-dark&repos=ayush-gupta78%2FCIE%2Cayush-gupta78%2FSearch-Engine%2Cayush-gupta78%2FGameDev%2Cayush-gupta78%2FCrawler&v=ayush-projects-2&mode=dark" width="100%" alt="Selected public GitHub projects" />
-      </picture>
-    </td>
-    <td width="45%" valign="top">
-      <p><sub>FEATURED · DEVELOPER TOOLING</sub></p>
-      <h3><a href="https://github.com/ayush-gupta78/CIE">CIE — Codebase Intelligence Engine</a></h3>
-      <p>A <strong>local-first codebase explorer</strong> that maps real JavaScript/TypeScript imports and relationships in an interactive 3D graph. Built to make unfamiliar repositories easier to navigate.</p>
-      <p><sub>TypeScript · React · Three.js · Fastify</sub></p>
-      <p><a href="https://github.com/ayush-gupta78/CIE">Explore the repository →</a></p>
-    </td>
-  </tr>
-</table>
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p><sub>QUANTITATIVE FINANCE · IN PROGRESS</sub></p>
-      <h3><a href="https://ayush-gupta-dev.vercel.app/">Statistical Arbitrage Research</a></h3>
-      <p>Exploring relationships between NSE stocks, pair selection, market-data pipelines, and the foundations of a C++/Python backtesting workflow.</p>
-      <p><sub>C++ · Python · CMake · Time-series analysis</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub>INFORMATION RETRIEVAL</sub></p>
-      <h3><a href="https://github.com/ayush-gupta78/Search-Engine">Search Engine</a></h3>
-      <p>Built the fundamentals of web search: crawling, tokenization, an inverted index, and BM25 ranking, exposed through a Python CLI.</p>
-      <p><sub>Python · BeautifulSoup · BM25 · Algorithms</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><sub>BACKEND ENGINEERING</sub></p>
-      <h3><a href="https://github.com/ayush-gupta78/Hospital-Management-System">Hospital Management REST API</a></h3>
-      <p>A Spring Boot backend for patients, doctors, appointments, and insurance, with JWT-based authentication and PostgreSQL persistence.</p>
-      <p><sub>Java · Spring Boot · Spring Security · JPA · PostgreSQL</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub>AI-ASSISTED GAME DEVELOPMENT EXPERIMENT</sub></p>
-      <h3><a href="https://github.com/ayush-gupta78/GameDev">Vesperdeep</a></h3>
-      <p>A standalone 2D Metroidvania prototype exploring movement, combat, enemies, and the limits of AI-assisted development—including lessons from what didn't work.</p>
-      <p><sub>Godot · GDScript · Game systems</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><sub>NETWORK PROGRAMMING</sub></p>
-      <h3><a href="https://github.com/ayush-gupta78/Multiple-tcp">Java Socket Programming</a></h3>
-      <p>Working with TCP/UDP, sockets, threads, and client-server communication—including a multi-client TCP group chat.</p>
-      <p><sub>Java · TCP/UDP · Multithreading · HTTP</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub>DATA COLLECTION</sub></p>
-      <h3><a href="https://github.com/ayush-gupta78/Crawler">Polite Web Crawler</a></h3>
-      <p>A Python web-crawling experiment focused on page discovery and responsible, constrained crawling.</p>
-      <p><sub>Python · Web crawling · Data pipelines</sub></p>
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack
 
-<p align="right"><a href="https://github.com/ayush-gupta78?tab=repositories">View more repositories →</a> &nbsp;·&nbsp; <a href="https://ayush-gupta-dev.vercel.app/">View my portfolio →</a></p>
+<div align="center">
 
-Technical toolkit
-Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
-</p>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Frameworks & tools
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
+### Currently Exploring
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+</div>
 
-Currently exploring
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-</p>
+---
 
-<details>
-  <summary><strong>See my GitHub language breakdown</strong></summary>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ayush-gupta78&theme=github-dark&v=ayush-stack-2&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=ayush-gupta78&theme=github-dark&v=ayush-stack-2&mode=dark" width="100%" alt="GitHub language breakdown" />
-  </picture>
-</details>
+## 🚀 Projects
 
-GitHub activity
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ayush-gupta78&theme=github-dark&v=ayush-stats-2&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=ayush-gupta78&theme=github-dark&v=ayush-stats-2&mode=dark" width="100%" alt="GitHub statistics and public contribution metrics" />
-  </picture>
-</p>
+### 1. 📈 Statistical Arbitrage C++ Backtester
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ayush-gupta78&theme=github-dark&v=ayush-heatmap-2&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=ayush-gupta78&theme=github-dark&v=ayush-heatmap-2&mode=dark" width="100%" alt="GitHub contribution heatmap" />
-  </picture>
-</p>
+A high-performance backtesting engine for statistical arbitrage strategies built entirely in **C++**.
 
-<table width="100%">
-  <tr>
-    <td width="62%" valign="middle">
-      <h2>Let's build something useful.</h2>
-      <p>Interested in software engineering, AI/ML, and research internships—as well as ambitious projects worth thinking deeply about.</p>
-      <p><sub>And yes, I'm still trying to make peace with Rust's borrow checker.</sub></p>
-    </td>
-    <td width="38%" align="right" valign="middle">
-      <p><a href="mailto:ayushgupta7643@gmail.com"><strong>Email me →</strong></a></p>
-      <p><a href="https://www.linkedin.com/in/ayush-gupta-1984b6381/">Connect on LinkedIn →</a></p>
-      <p><a href="https://ayush-gupta-dev.vercel.app/">Visit my portfolio →</a></p>
-    </td>
-  </tr>
-</table>
+The system ingests historical market data, models pair relationships using cointegration analysis (Engle-Granger), generates long/short signals when spreads deviate from equilibrium, and runs full PnL simulations — with Python-side visualization and Jupyter-based analysis layered on top.
 
-<p align="center"><sub>Made with curiosity, lots of debugging, and a little help from <a href="https://www.gitskins.com/readme-generator">GitSkins</a>.</sub></p>
+**Stack:** `C++` · `Python` · `pandas` · `Jupyter` · `CMake`
+
+> *Quantitative finance meets systems programming — no black boxes.*
+
+---
+
+### 2. 🏥 Hospital Management REST API
+
+A production-style **Spring Boot** REST API for hospital operations — patients, doctors, departments, appointments, insurance records, and role-based access control baked in from day one.
+
+Built with clean separation of concerns: controllers, DTOs, entities, and security config are all clearly divided. Uses **Spring Security** for auth, JPA for persistence, and Maven for build management.
+
+**Stack:** `Java` · `Spring Boot` · `Spring Security` · `JPA/Hibernate` · `Maven`
+
+---
+
+### 3. 🔌 Network Programming Suite (Java)
+
+A collection of low-level networking projects exploring **TCP/UDP sockets** from first principles:
+
+- **1-to-1 Socket** — basic client-server chat
+- **Multiple TCP** — multi-client concurrent server
+- **UDP** — connectionless datagram communication
+- **HTTP Server** — raw HTTP request/response parsing
+- **REST API server** — lightweight RESTful interface
+
+All implemented in vanilla Java — no frameworks, no abstractions, just sockets and threads.
+
+**Stack:** `Java` · `Sockets` · `TCP/UDP` · `HTTP`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush-gupta78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A855F7&title_color=A855F7&icon_color=A855F7"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-gupta78&layout=compact&langs_count=8&theme=tokyonight&border_color=A855F7&title_color=A855F7"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayush-gupta78&theme=tokyonight&border=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Currently Learning
+
+```
+Machine Learning → Neural nets, gradient descent, and why my loss never converges
+Rust             → Lifetimes, ownership, and the borrow checker judging my past decisions
+```
+
+*Thanks for stopping by — feel free to poke around the repos.*
+
+</div>
